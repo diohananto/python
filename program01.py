@@ -1,4 +1,4 @@
-#persegi panjang (luas dan keliling)
+#luas dan keliling persegi panjang
 a=int(input("masukan panjang : "))
 b=int(input("masukan lebar : "))
 luas=a*b # perkalian *
